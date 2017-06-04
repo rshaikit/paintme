@@ -1,5 +1,7 @@
 package roshan.paintme;
-
+/**
+ * Created by Roshan Shaik on 6/4/2017.
+ */
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BlurMaskFilter;
